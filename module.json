@@ -1,0 +1,92 @@
+{
+  "id": "blood-and-rum-curse-of-the-drunk-octopus",
+  "title": "Blood And Rum: Curse Of the Drunk Octopus",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "monks-active-tiles",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-calculator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-combat-details",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-combat-marker",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-little-details",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "splatter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-calculator",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "roll-from-compendium",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Blood and Rum: Curse of the Drunk Octopus\n\nBlood and Rum: Curse of the Drunk Octopus is an 18th-century one shot adventure for Dungeons and Dragons 5th Edition, set in Limithron's Dark Caribbean. The party is hired by a renowned scholar in England to recover a stolen, one-of-a-kind book about ancient sea creatures. Their quest takes them across the Atlantic to the verdant shores of Port Royal, Jamaica, where they must pick up the trail of a previous group of adventurers who mysteriously vanished while on the same mission several months ago.\n\nThe action begins with a pirate attack on their transport ship as the party approaches Jamaica. Upon arrival, they dive into the mysteries of Port Royal, gathering clues from colorful locals and seedy rum bars. Their investigation leads them to the estate of Sir Thomas Whitaker, a former governor with an intriguing past and a passion for rare books. However, his tranquil farmstead harbors dark secrets, and the party soon uncovers a sinister cult operating beneath the surface of Caribbean society.\n\nThe adventure culminates in a race against time as the heroes strive to prevent the cult from using the stolen book to summon an ancient evil from the ocean's depths. Along the way, they'll face pirates, cultists, and monstrous creatures in a variety of combat encounters and roleplaying opportunities.",
+  "authors": [
+    {
+      "name": "Josh Bowman",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "bar-cotdo-adventure-pack",
+      "label": "BaR-COTDO-Adventure Pack",
+      "path": "packs/bar-cotdo-adventure-pack",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
